@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run -it -v $(pwd)/project:/opt/project ledocker:latest

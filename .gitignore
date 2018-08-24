@@ -1,0 +1,19 @@
+# LE Project
+project/Maps/*
+project/Shaders/*
+project/Scripts/*
+project/Models/*
+project/Materials/*
+
+# CMake Generated
+project/CMakeCache.txt
+project/CMakeFiles/
+project/cmake_install.cmake
+project/Makefile
+
+project/Source/*
+project/*.so
+project/*.bin
+
+# Game Engine
+Leadwerks/*
